@@ -1,7 +1,6 @@
 # python -m pip install requests
 # t.me/E_a_s_y_B_bot
 # pip install pyTelegramBotAPI
-
 import telebot
 import requests
 import logging
